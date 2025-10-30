@@ -92,5 +92,6 @@ int main(){ //method utama yang akan dieksekusi lebih dulu
     }
 }
 
-// nama: Alycia Peruciaa
+// nama: Ramdan Olii
 // nim : 532424069
+
